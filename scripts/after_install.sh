@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # navigate to app folder
-cd /usr/share/nginx/html/
-
+cd /home/ec2-user/server
 # install dependencies
 npm install
 
