@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # navigate to app folder
-cd /usr/share/nginx/html/
+cd /home/ec2-user/server
 
 # initial startup by running react-script "start", name process "marketing"
 # --watch watches and restarts if files change
